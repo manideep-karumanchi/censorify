@@ -1,0 +1,6 @@
+{
+	"name": "censorify",
+	"version": "0.0.1",
+	"main": "censortext",
+	"description": "Module to censor the text."	
+}
