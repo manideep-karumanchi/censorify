@@ -1,0 +1,10 @@
+{
+	"name": "censorify_kmdbecbapatla",
+	"version": "0.0.1",
+	"main": "censortext",
+	"description": "Module to censor the text.",
+	"repository":{
+		"type": "git",
+		"url": "https://github.com/manideep-karumanchi/censorify"
+	}
+}
