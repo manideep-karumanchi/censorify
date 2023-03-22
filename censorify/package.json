@@ -5,6 +5,6 @@
 	"description": "Module to censor the text.",
 	"repository":{
 		"type": "git",
-		"url": "https://github.com/manideep-karumanchi/censorify"
+		"url": "https://github.com/manideep-karumanchi/censorify/censorify"
 	}
 }
