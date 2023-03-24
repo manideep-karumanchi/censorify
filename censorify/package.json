@@ -1,6 +1,6 @@
 {
 	"name": "censorify_kmdbecbapatla",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"main": "censortext",
 	"description": "Module to censor the text.",
 	"repository":{
